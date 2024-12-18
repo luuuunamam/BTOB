@@ -1,1 +1,42 @@
-# BTOB
+```mermaid
+graph TD
+A[Marketing BtoB et Alliances Stratégiques] --> B[Marketing BtoB]
+A --> C[Alliances Stratégiques]
+A --> D[Segmentation, Ciblage, Positionnement]
+A --> E[Expérience Client]
+
+B --> B1[Caractéristiques du BtoB]
+B1 --> B2[Volumes Importants]
+B1 --> B3[Processus d'achat complexe]
+B1 --> B4[Fidélité et Partenariats Long Terme]
+B --> B5[Types de Marketing BtoB]
+B5 --> B6[BtoB Classique]
+B5 --> B7[BtoBtoE]
+B5 --> B8[BtoBtoC]
+B5 --> B9[BtoBtoU]
+
+C --> C1[Objectifs des Alliances]
+C1 --> C2[Réduction des coûts]
+C1 --> C3[Partage des risques]
+C1 --> C4[Innovation]
+C1 --> C5[Extension du marché]
+C --> C6[Types d'Alliances]
+C6 --> C7[Joint-Ventures]
+C6 --> C8[Coopétition]
+C6 --> C9[Accords de commercialisation]
+
+D --> D1[Segmentation]
+D1 --> D2[Variables : Taille, Industrie, Processus]
+D --> D3[Ciblage]
+D3 --> D4[Stratégies : Différenciée, Concentrée]
+D --> D5[Positionnement]
+D5 --> D6[Axes : Innovation, Service, Coûts]
+
+E --> E1[Différences Relation vs Expérience]
+E1 --> E2[Relation = Interaction spécifique]
+E1 --> E3[Expérience = Parcours global]
+E --> E4[KPI Expérience Client]
+E4 --> E5[Satisfaction]
+E4 --> E6[Fidélité]
+E4 --> E7[Valeur Client]
+
